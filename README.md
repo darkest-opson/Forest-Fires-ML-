@@ -5,6 +5,8 @@ http://algeriaforestfire-env.eba-gxvuqpit.ap-south-1.elasticbeanstalk.com/predic
 
 
 ##Description
+
+
 In this project, I collaborated with a team of data scientists to predict the Fire Weather Index in Algerian Forests using Ridge Regression. We used a pickled standard scaler and Ridge Regression model to develop a predictive algorithm that can aid in preventing forest fires.
 
 We deployed our model on AWS using Elastic Beanstalk and Code Pipeline from Github. The project was an exciting opportunity to apply our skills in data science and machine learning to solve a real-world problem.
